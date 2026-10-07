@@ -79,6 +79,4 @@ with illustrative_side:
         st.markdown(
             f"#### ⚠️ Critical Performance Drop\n"
             f"Sales plummeted by **{drop_pct:.1f}%** between FY2017 and FY2018.\n\n"
-            f"**Data Audit Note:**\n"
-            f"A collapse from **$11.81M** down to **$0.33M** typically indicates **incomplete or partial data collection** for the final calendar year (e.g., dataset stops in early January 2018)."
         )
